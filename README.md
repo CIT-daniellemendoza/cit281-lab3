@@ -1,6 +1,7 @@
 # cit281-lab3
 ```
-Object deconstruction, arrow function expression, refactoring, for...in syntax (objects), for...of syntax (arrays)creating and importing Node.js models, spread operator
+Object deconstruction, arrow function expression, refactoring, for...in syntax (objects), 
+for...of syntax (arrays)creating and importing Node.js models, spread operator
 ```
 
 - Begin with starter file
@@ -25,9 +26,11 @@ Skills Learned:
 
 ## Implicit vs. Explicit Arrow Functions
 _Implicit_
+
 ![image](https://user-images.githubusercontent.com/67397853/170887059-dc3917ee-a7dc-4d76-9741-9b36ef684f46.png)
 
 _Explicit_
+
 ![image](https://user-images.githubusercontent.com/67397853/170887081-316b8be3-9f0c-4263-9bda-f4f6c6e979d7.png)
 
 ## Importing functions from module exports file using require
