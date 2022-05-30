@@ -1,6 +1,6 @@
 # cit281-lab3
 ```
-Object deconstruction, arrow function expression, refactoring, for...in syntax (objects), 
+Purpose: Practice with object deconstruction, arrow function expression, refactoring, for...in syntax (objects), 
 for...of syntax (arrays)creating and importing Node.js models, spread operator
 ```
 
